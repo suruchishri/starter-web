@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   jason tylor  jason@gmail.com  @awesomjt
 
 # THANKS
 
